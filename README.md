@@ -3,8 +3,11 @@
 # 🗺️ Trabalho Prático 5 - Coloração de Grafos com DSatur
 
 **Disciplina:** Resolução de Problemas com Grafos
+
 **Orientador:** Prof. Me Ricardo Carubbi
+
 **Instituição:** Universidade de Fortaleza (UNIFOR)
+
 **Autores:** Pedro Kauã Vasconcelos e Eduardo Suaki
 
 ---
