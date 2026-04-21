@@ -83,4 +83,4 @@ Este projeto demonstra a aplicação prática de algoritmos de coloração de gr
 ## 🎥 Video de Apresentação
 Uma explicação detalhada do código desenvolvido e a demonstração da execução deste projeto podem ser vistas no vídeo abaixo:
 
-▶️ [Link para o vídeo de apresentação do projeto](https://www.youtube.com/watch?v=EXAMPLE)
+▶️ [Link para o vídeo de apresentação do projeto](https://www.youtube.com/watch?v=MVO03k_rFiM)
