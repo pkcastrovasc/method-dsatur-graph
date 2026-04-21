@@ -16,6 +16,7 @@ Este repositório contém a implementação em **Java** do Trabalho Prático 5 d
 
 O objetivo central do projeto é modelar o mapa político do Brasil como um grafo não direcionado — onde os vértices representam os estados e as arestas representam as fronteiras terrestres — e aplicar a heurística **DSatur (Degree of Saturation)**. O algoritmo busca atribuir cores a cada estado garantindo que nenhum vizinho de fronteira compartilhe a mesma cor, utilizando o menor número de cores possível.
 
+<img src="imgs/grafo_mapa.png" width="400">
 
 ## 📁 Estrutura do Projeto
 
@@ -51,7 +52,8 @@ javac Main.java GraphColoringDSatur.java Graph.java Bag.java Stack.java In.java 
 ```
 ## 🚀 Execução
 O programa principal recebe o caminho do arquivo do grafo via linha de comando. Após a compilação (ainda dentro da pasta `src`), você pode rodar os testes.
-# Entrada oficial do mapa do Brasil:
+
+# 📍 Entrada oficial do mapa do Brasil:
 
 ```bash
 java Main ../dados/brasil.txt
